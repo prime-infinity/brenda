@@ -16,6 +16,13 @@ main{
     min-height: 610px;
     margin-top: 20px;
 }
+.bg-theme{
+    background-color: #97dae3 !important;
+}
+.form-n{
+    background-color: #97dae3 !important;
+    border-bottom: 1px solid black;
+}
 li{
 list-style-type: none;
 }
