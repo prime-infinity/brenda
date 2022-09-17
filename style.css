@@ -30,10 +30,10 @@ list-style-type: none;
     white-space: pre;
 }
 .nav-wrapper > li{
-    height: 40px;
+    height: 10px;
 }
 .rotate{
-    transform: rotate(-90deg);
+    /*: rotate(-90deg);*/
     display: flex;
 }
 .hero{
